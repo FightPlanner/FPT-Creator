@@ -2,6 +2,6 @@
 
 Just a simple program for making .fpt and simple to understand
 
-Tutorial :
+Tutorial : https://www.youtube.com/watch?v=VwgOGRiE3mE&t=2s
 
-Trailer :
+Trailer : https://www.youtube.com/watch?v=hLD2tRR-qcM
